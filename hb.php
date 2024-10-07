@@ -19,4 +19,9 @@ function return_no_to_hello(){
 }
 
 
+function return_no_to_any_hello(){
+  rteturn "hello no to any world";
+}
+
+
  ?>
